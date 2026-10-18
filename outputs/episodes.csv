@@ -1,0 +1,70 @@
+category_code,industry,metric,direction,start,end,months,still_active,peak_value
+11B,Dairy products,months_of_supply,high,2026-08-01,2026-08-01,1,True,0.9096809508914607
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,high,2026-03-01,2026-08-01,6,True,0.155644118914261
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,low,2026-05-01,2026-08-01,4,True,0.7181826733138933
+11B,Dairy products,months_of_supply,high,2026-05-01,2026-05-01,1,False,0.9110195834628536
+12A,Beverage manufacturing,shipments_yoy,low,2025-10-01,2026-01-01,4,False,-0.00957101350196543
+12A,Beverage manufacturing,shipments_yoy,low,2025-08-01,2025-08-01,1,False,0.015330669493598625
+12A,Beverage manufacturing,shipments_yoy,low,2025-02-01,2025-02-01,1,False,0.022442733933042858
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,low,2024-09-01,2024-09-01,1,False,0.7549039231385108
+12S,Beverage and tobacco products (total),shipments_yoy,high,2024-07-01,2024-07-01,1,False,0.1177797268512717
+12S,Beverage and tobacco products (total),months_of_supply,low,2024-07-01,2024-07-01,1,False,1.8731710105166894
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,low,2024-07-01,2024-07-01,1,False,0.7672227674190383
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,low,2024-03-01,2024-03-01,1,False,-0.10577088716623595
+12S,Beverage and tobacco products (total),shipments_yoy,high,2024-02-01,2024-02-01,1,False,0.13565192293816297
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,low,2023-12-01,2023-12-01,1,False,-0.06318480642804969
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,low,2023-04-01,2023-09-01,6,False,-0.0367378178416532
+11B,Dairy products,months_of_supply,high,2023-07-01,2023-07-01,1,False,0.9194961664841182
+11B,Dairy products,months_of_supply,high,2023-04-01,2023-05-01,2,False,0.9089937395022141
+11S,Food products (total),months_of_supply,high,2022-09-01,2023-04-01,8,False,0.9010886822408709
+11B,Dairy products,months_of_supply,high,2023-02-01,2023-02-01,1,False,0.8894267130540009
+11C,"Meat, poultry and seafood processing",months_of_supply,high,2022-08-01,2023-02-01,7,False,0.5530211480362538
+11B,Dairy products,months_of_supply,high,2022-09-01,2022-09-01,1,False,0.8785780958307405
+11B,Dairy products,shipments_yoy,high,2022-01-01,2022-08-01,8,False,0.261057173678533
+12A,Beverage manufacturing,months_of_supply,high,2022-05-01,2022-05-01,1,False,2.7275132275132274
+11S,Food products (total),shipments_yoy,high,2022-01-01,2022-04-01,4,False,0.15792122480332682
+12A,Beverage manufacturing,months_of_supply,high,2022-02-01,2022-02-01,1,False,2.6998396472238926
+12S,Beverage and tobacco products (total),months_of_supply,high,2022-01-01,2022-02-01,2,False,2.240635888501742
+11C,"Meat, poultry and seafood processing",shipments_yoy,high,2021-04-01,2021-11-01,8,False,0.2317577548005909
+11S,Food products (total),shipments_yoy,high,2021-11-01,2021-11-01,1,False,0.13124106455515228
+11B,Dairy products,months_of_supply,high,2021-07-01,2021-11-01,5,False,0.864510956707643
+12A,Beverage manufacturing,shipments_yoy,high,2021-10-01,2021-10-01,1,False,0.13032329988851732
+11S,Food products (total),shipments_yoy,high,2021-03-01,2021-09-01,7,False,0.12153590799964431
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,high,2020-11-01,2021-09-01,11,False,0.25700680272108833
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,high,2021-08-01,2021-08-01,1,False,0.8181818181818182
+11B,Dairy products,shipments_yoy,low,2021-07-01,2021-07-01,1,False,-0.03472531386341382
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,high,2021-03-01,2021-06-01,4,False,0.8141314131413141
+12A,Beverage manufacturing,shipments_yoy,high,2021-04-01,2021-05-01,2,False,0.14248272575649268
+12S,Beverage and tobacco products (total),shipments_yoy,high,2021-04-01,2021-04-01,1,False,0.15386548287126223
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,high,2021-01-01,2021-01-01,1,False,0.7883832778394376
+11S,Food products (total),shipments_yoy,high,2020-12-01,2020-12-01,1,False,0.055832781335099835
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,high,2020-06-01,2020-06-01,1,False,0.10187667560321723
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,low,2020-05-01,2020-05-01,1,False,0.7014364344207276
+12A,Beverage manufacturing,months_of_supply,high,2020-04-01,2020-05-01,2,False,2.7401123046875
+12A,Beverage manufacturing,shipments_yoy,low,2020-04-01,2020-05-01,2,False,-0.11918927094887566
+12S,Beverage and tobacco products (total),months_of_supply,high,2020-04-01,2020-04-01,1,False,2.244696259691574
+11S,Food products (total),shipments_yoy,high,2020-02-01,2020-03-01,2,False,0.06132350087327776
+12S,Beverage and tobacco products (total),shipments_yoy,high,2020-03-01,2020-03-01,1,False,0.10280146163215598
+11C,"Meat, poultry and seafood processing",shipments_yoy,high,2020-03-01,2020-03-01,1,False,0.0887704371892779
+12A,Beverage manufacturing,months_of_supply,high,2020-01-01,2020-02-01,2,False,2.536405843052882
+12S,Beverage and tobacco products (total),months_of_supply,high,2020-02-01,2020-02-01,1,False,2.134411645774363
+11S,Food products (total),months_of_supply,high,2019-12-01,2019-12-01,1,False,0.8626909303515311
+12S,Beverage and tobacco products (total),months_of_supply,high,2019-11-01,2019-11-01,1,False,2.0761453396524487
+11S,Food products (total),months_of_supply,high,2019-06-01,2019-10-01,5,False,0.8641497641333948
+11C,"Meat, poultry and seafood processing",months_of_supply,high,2019-05-01,2019-08-01,4,False,0.537984816402417
+12S,Beverage and tobacco products (total),months_of_supply,high,2019-03-01,2019-03-01,1,False,2.036767676767677
+11B,Dairy products,shipments_yoy,high,2019-01-01,2019-01-01,1,False,0.10141587092525528
+12A,Beverage manufacturing,shipments_yoy,high,2018-12-01,2018-12-01,1,False,0.06619182119611944
+12A,Beverage manufacturing,shipments_yoy,high,2018-10-01,2018-10-01,1,False,0.053220648698035555
+12A,Beverage manufacturing,shipments_yoy,high,2018-07-01,2018-08-01,2,False,0.04723650385604117
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,high,2018-07-01,2018-07-01,1,False,0.10393925011865202
+11A,"Grain and oilseed milling, breakfast cereal",shipments_yoy,high,2018-02-01,2018-05-01,4,False,0.10239511332583184
+12S,Beverage and tobacco products (total),months_of_supply,high,2018-04-01,2018-04-01,1,False,1.9725842339478703
+11S,Food products (total),months_of_supply,high,2018-01-01,2018-01-01,1,False,0.8523357516817102
+12S,Beverage and tobacco products (total),months_of_supply,high,2017-05-01,2018-01-01,9,False,1.980306171264551
+12A,Beverage manufacturing,months_of_supply,high,2017-03-01,2018-01-01,11,False,2.389866291344124
+11B,Dairy products,shipments_yoy,low,2018-01-01,2018-01-01,1,False,-0.05438505448884279
+11B,Dairy products,months_of_supply,high,2017-08-01,2017-08-01,1,False,0.8677909639808453
+11A,"Grain and oilseed milling, breakfast cereal",months_of_supply,high,2017-01-01,2017-06-01,6,False,0.8285067873303168
+11B,Dairy products,months_of_supply,high,2017-01-01,2017-03-01,3,False,0.8443856794141579
+11C,"Meat, poultry and seafood processing",months_of_supply,low,2017-01-01,2017-01-01,1,False,0.4581421110935275

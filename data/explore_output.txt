@@ -1,0 +1,206 @@
+Rows: 203000   Months: 2015-01 to 2026-08
+
+data_type_code values (row counts):
+data_type_code
+VS       24080
+MPCTI    24080
+TI       24080
+MPCVS    24080
+MPCNO    14560
+NO       14560
+UO       14000
+MPCUO    14000
+WI        6720
+FI        6720
+MPCMI     6720
+MPCWI     6720
+MI        6720
+MPCFI     6720
+IS        6720
+US        2520
+
+seasonally_adj values (row counts):
+seasonally_adj
+yes    101500
+no     101500
+
+error_data values (row counts):
+error_data
+no    203000
+
+Latest month with values: 2026-08
+Latest values by category_code and data_type_code (seasonally_adj as in the file):
+data_type_code                      FI    IS        MI  MPCFI  MPCMI  MPCNO  MPCTI  MPCUO  MPCVS  MPCWI        NO        TI         UO     US        VS        WI
+category_code seasonally_adj                                                                                                                                     
+11A           no                   NaN   NaN       NaN    NaN    NaN    NaN   -0.1    NaN    1.3    NaN       NaN    7501.0        NaN    NaN   10664.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.5    NaN   -0.5    NaN       NaN    7631.0        NaN    NaN   10525.0       NaN
+11B           no                   NaN   NaN       NaN    NaN    NaN    NaN   -1.4    NaN    1.1    NaN       NaN   11764.0        NaN    NaN   13011.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.4    NaN   -0.6    NaN       NaN   11633.0        NaN    NaN   12788.0       NaN
+11C           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.9    NaN    2.8    NaN       NaN   13363.0        NaN    NaN   26653.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.6    NaN    0.4    NaN       NaN   13103.0        NaN    NaN   26272.0       NaN
+11S           no               38159.0  0.80   30484.0    1.0    0.9    NaN    0.5    NaN    3.6   -6.3       NaN   73218.0        NaN    NaN   92005.0    4575.0
+              yes              37827.0  0.81   30765.0   -0.9    0.8    NaN   -0.4    NaN   -0.2   -3.3       NaN   73590.0        NaN    NaN   90620.0    4998.0
+12A           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.2    NaN   -0.8    NaN       NaN   30793.0        NaN    NaN   12688.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.2    NaN   -0.6    NaN       NaN   30641.0        NaN    NaN   12230.0       NaN
+12B           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.0    NaN   -0.3    NaN       NaN    3632.0        NaN    NaN    6144.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.6    NaN   -0.3    NaN       NaN    3911.0        NaN    NaN    6144.0       NaN
+12S           no               14014.0  1.83    6899.0    0.6   -0.9    NaN    0.2    NaN   -0.6    0.2       NaN   34425.0        NaN    NaN   18832.0   13512.0
+              yes              13829.0  1.88    7146.0   -0.5   -0.9    NaN   -0.3    NaN   -0.5    0.3       NaN   34552.0        NaN    NaN   18374.0   13577.0
+13S           no                1434.0  1.66    1512.0   -0.1   -2.1    NaN   -1.0    NaN    3.4   -0.5       NaN    3519.0        NaN    NaN    2114.0     573.0
+              yes               1427.0  1.75    1495.0    0.0   -2.1    NaN   -0.9    NaN    0.1   -0.2       NaN    3490.0        NaN    NaN    1998.0     568.0
+14S           no                1503.0  1.95    1637.0    0.2   -0.2    NaN    0.4    NaN    1.4    2.8       NaN    3683.0        NaN    NaN    1892.0     543.0
+              yes               1515.0  2.03    1637.0   -1.0   -0.3    NaN   -0.3    NaN   -1.6    1.5       NaN    3690.0        NaN    NaN    1818.0     538.0
+15S           no                1002.0  2.34     795.0    0.4    0.3    NaN    0.2    NaN    9.7   -0.8       NaN    2056.0        NaN    NaN     880.0     259.0
+              yes                963.0  2.38     767.0    0.0    0.3    NaN    0.1    NaN    1.8    0.0       NaN    1983.0        NaN    NaN     833.0     253.0
+16S           no                 691.0  2.86     363.0   -2.3    4.3    NaN    0.3    NaN    6.1    3.1       NaN    1187.0        NaN    NaN     415.0     133.0
+              yes                693.0  2.81     360.0   -2.0    4.0    NaN    0.3    NaN    2.4    3.1       NaN    1184.0        NaN    NaN     421.0     131.0
+21S           no                7662.0  1.27    7993.0    0.2    0.0    NaN    0.2    NaN    1.0    0.8       NaN   18418.0        NaN    NaN   14543.0    2763.0
+              yes               7770.0  1.33    7966.0    0.2   -0.4    NaN    0.0    NaN   -0.1    0.3       NaN   18517.0        NaN    NaN   13908.0    2781.0
+22A           no                   NaN   NaN       NaN    NaN    NaN    NaN   -0.3    NaN    2.2    NaN       NaN    6306.0        NaN    NaN    7249.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.2    NaN    0.6    NaN       NaN    6305.0        NaN    NaN    7052.0       NaN
+22B           no                   NaN   NaN       NaN    NaN    NaN    NaN    1.8    NaN    0.4    NaN       NaN    8253.0        NaN    NaN    8160.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.6    NaN   -0.5    NaN       NaN    8132.0        NaN    NaN    7895.0       NaN
+22S           no                7994.0  1.06   10880.0    0.8    0.9    NaN    0.9    NaN    2.0    1.2       NaN   21104.0        NaN    NaN   19909.0    2230.0
+              yes               7893.0  1.08   10830.0   -0.3    0.7    NaN    0.3    NaN    0.3    0.7       NaN   20907.0        NaN    NaN   19384.0    2184.0
+23S           no                1958.0  1.07    4605.0    0.4    0.9    NaN    1.2    NaN   -0.9    3.7       NaN    7944.0        NaN    NaN    7412.0    1381.0
+              yes               1934.0  1.06    4537.0   -0.4    1.1    NaN    0.7    NaN   -0.2    1.1       NaN    7806.0        NaN    NaN    7397.0    1335.0
+24A           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.6    NaN    1.4    NaN       NaN   41524.0        NaN    NaN   71722.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    2.4    NaN    1.2    NaN       NaN   41121.0        NaN    NaN   65885.0       NaN
+24S           no               20449.0  0.64   14561.0   -0.1   -0.3    NaN    0.8    NaN    1.6    3.2       NaN   49384.0        NaN    NaN   77048.0   14374.0
+              yes              20410.0  0.69   14291.0    2.3    0.5    NaN    2.5    NaN    1.4    4.6       NaN   48977.0        NaN    NaN   70689.0   14276.0
+25A           no                   NaN   NaN       NaN    NaN    NaN    NaN    3.6    NaN    5.6    NaN       NaN    6524.0        NaN    NaN    4426.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    2.9    NaN    1.6    NaN       NaN    6623.0        NaN    NaN    5131.0       NaN
+25B           no                   NaN   NaN       NaN    NaN    NaN    NaN   -1.6    NaN   -2.7    NaN       NaN   59217.0        NaN    NaN   25470.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.3    NaN   -1.4    NaN       NaN   59505.0        NaN    NaN   26127.0       NaN
+25C           no                   NaN   NaN       NaN    NaN    NaN    NaN   -0.6    NaN    2.2    NaN       NaN    6148.0        NaN    NaN    4513.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.5    NaN   -0.3    NaN       NaN    6157.0        NaN    NaN    4297.0       NaN
+25S           no               58964.0  1.51   45723.0    0.4    1.3    NaN    0.3    NaN    1.5   -1.5       NaN  132457.0        NaN    NaN   87659.0   27770.0
+              yes              58534.0  1.51   45595.0   -0.2    1.6    NaN    0.6    NaN    0.2    0.7       NaN  131713.0        NaN    NaN   87317.0   27584.0
+26S           no               15998.0  1.35   15670.0    0.9   -0.1    NaN    0.5    NaN    1.0    1.0       NaN   36256.0        NaN    NaN   26801.0    4588.0
+              yes              15987.0  1.38   15589.0    0.3    0.4    NaN    0.4    NaN    0.0    0.5       NaN   36152.0        NaN    NaN   26182.0    4576.0
+27S           no                9802.0  1.30    8453.0    0.1    0.0    NaN   -0.1    NaN    0.3   -0.6       NaN   20715.0        NaN    NaN   15988.0    2460.0
+              yes               9838.0  1.40    8446.0    0.1    0.0    NaN    0.0    NaN    0.4   -0.1       NaN   20746.0        NaN    NaN   14866.0    2462.0
+31A           no                   NaN   NaN       NaN    NaN    NaN    2.6   -0.2    0.8    3.9    NaN   17708.0   27574.0    28235.0    NaN   17471.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.9    0.1    1.5    1.0    NaN   17466.0   27586.0    28219.0    NaN   17059.0       NaN
+31C           no                   NaN   NaN       NaN    NaN    NaN    3.7    6.2    0.8    1.2    NaN    2216.0    3448.0     5698.0    NaN    2169.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.4    6.1    1.9   -0.5    NaN    2277.0    3506.0     5847.0    NaN    2166.0       NaN
+31S           no               12710.0  1.60   23837.0   -1.5    0.0    2.8   -0.1    0.7    4.8    1.0   32897.0   52244.0    49318.0   1.51   32573.0   15697.0
+              yes              12796.0  1.64   23847.0   -1.4    1.6    1.2    0.6    1.7    1.7    0.8   32604.0   52191.0    49540.0   1.56   31784.0   15548.0
+32S           no               27212.0  1.67   29554.0    0.0   -0.3    1.6   -0.1    0.1    5.5    0.1   45724.0   76070.0   167396.0   3.75   45637.0   19304.0
+              yes              27155.0  1.72   29390.0    0.7    0.4   -1.4    0.6    0.5    0.4    0.6   44985.0   75835.0   165907.0   3.85   44078.0   19290.0
+33A           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.9    NaN    3.2    NaN       NaN    5469.0        NaN    NaN    2680.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    1.9    NaN   -1.5    NaN       NaN    5696.0        NaN    NaN    2487.0       NaN
+33C           no                   NaN   NaN       NaN    NaN    NaN   -2.1    0.9    1.1   -5.1    NaN    4582.0   10888.0    12495.0    NaN    4444.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    7.2    1.0    3.4   -1.3    NaN    5017.0   10953.0    12729.0    NaN    4597.0       NaN
+33D           no                   NaN   NaN       NaN    NaN    NaN   10.6    1.8    3.9   -0.7    NaN    1861.0    5946.0     7133.0    NaN    1595.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    9.5    2.2    3.9   -1.8    NaN    1857.0    5923.0     7133.0    NaN    1591.0       NaN
+33E           no                   NaN   NaN       NaN    NaN    NaN  -10.1    2.5    0.7   -3.4    NaN    5082.0    9991.0    11304.0    NaN    5001.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -7.5   -2.0    1.0   -4.1    NaN    5174.0   10039.0    11143.0    NaN    5061.0       NaN
+33G           no                   NaN   NaN       NaN    NaN    NaN    1.7    1.4   -1.6    6.2    NaN     482.0    1567.0     1852.0    NaN     513.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    2.8    0.0   -0.6    2.5    NaN     521.0    1534.0     1914.0    NaN     533.0       NaN
+33H           no                   NaN   NaN       NaN    NaN    NaN   -0.2    0.9    0.6   -1.9    NaN    7680.0   11317.0    18591.0    NaN    7569.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.7    1.6    1.7    1.9    NaN    7406.0   11491.0    18958.0    NaN    7095.0       NaN
+33I           no                   NaN   NaN       NaN    NaN    NaN    2.5   -0.8   -0.3    2.7    NaN    2936.0    8221.0    10268.0    NaN    2964.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.2    0.9    0.9   -2.1    NaN    3081.0    8246.0    10301.0    NaN    2993.0       NaN
+33M           no                   NaN   NaN       NaN    NaN    NaN    4.3    1.4    0.4    3.8    NaN    3192.0    9967.0    13021.0    NaN    3141.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -0.7    0.8    0.6   -1.5    NaN    3150.0    9838.0    13048.0    NaN    3071.0       NaN
+33S           no               31215.0  2.40   49454.0    0.4    1.9    1.4    1.1    0.6    1.5    0.7   45216.0  106495.0   153604.0   3.75   44365.0   25826.0
+              yes              31514.0  2.43   49389.0    0.1    1.9    1.1    1.0    1.0    0.2    0.1   45481.0  106771.0   154029.0   3.79   43941.0   25868.0
+34A           no                   NaN   NaN       NaN    NaN    NaN   14.1    0.7    3.0   12.2    NaN    2022.0    2742.0     1931.0    NaN    1965.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.0   -1.1    3.0   -1.1    NaN    1831.0    2637.0     1931.0    NaN    1774.0       NaN
+34B           no                   NaN   NaN       NaN    NaN    NaN    NaN    6.9    NaN    8.1    NaN       NaN    1198.0        NaN    NaN     627.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    3.8    NaN    4.6    NaN       NaN    1136.0        NaN    NaN     638.0       NaN
+34C           no                   NaN   NaN       NaN    NaN    NaN    NaN    5.0    NaN   -2.3    NaN       NaN     669.0        NaN    NaN     433.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    3.2    NaN   -0.7    NaN       NaN     654.0        NaN    NaN     444.0       NaN
+34D           no                   NaN   NaN       NaN    NaN    NaN    8.8    1.7    1.9    5.2    NaN    4680.0    6191.0    28013.0    NaN    4167.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.7   -0.2    1.2    1.6    NaN    4997.0    6029.0    28247.0    NaN    4661.0       NaN
+34E           no                   NaN   NaN       NaN    NaN    NaN   -5.6   -0.9    0.0    0.0    NaN     252.0     835.0      366.0    NaN     252.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -7.3   -0.9    2.7   -7.2    NaN     254.0     835.0      379.0    NaN     244.0       NaN
+34F           no                   NaN   NaN       NaN    NaN    NaN    NaN    2.2    NaN   -2.3    NaN       NaN     709.0        NaN    NaN     381.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.6    NaN   -1.4    NaN       NaN     710.0        NaN    NaN     415.0       NaN
+34H           no                   NaN   NaN       NaN    NaN    NaN   13.6   -0.8    0.4   12.0    NaN    6065.0   13969.0    18863.0    NaN    5987.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.0    0.9    0.8    1.0    NaN    5769.0   14129.0    19021.0    NaN    5625.0       NaN
+34I           no                   NaN   NaN       NaN    NaN    NaN    6.8    0.9    0.3    8.9    NaN    1720.0    5478.0    35422.0    NaN    1598.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.2    0.0    0.4   -0.1    NaN    1788.0    5366.0    35409.0    NaN    1646.0       NaN
+34J           no                   NaN   NaN       NaN    NaN    NaN    3.3   -0.1    1.2    9.2    NaN    4167.0    4090.0    37486.0    NaN    3725.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -2.9    0.1    1.8    0.4    NaN    4394.0    4111.0    37663.0    NaN    3723.0       NaN
+34K           no                   NaN   NaN       NaN    NaN    NaN    0.3    0.2   -0.8    5.0    NaN    9473.0   23948.0    37597.0    NaN    9786.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.1    0.0    0.9   -1.0    NaN   10213.0   23704.0    38136.0    NaN    9885.0       NaN
+34S           no               18072.0  2.03   32481.0    1.3    0.0    5.8    0.5    0.6    6.6    0.6   29949.0   69303.0   159678.0   5.81   34123.0   18750.0
+              yes              17670.0  2.01   32246.0    0.3   -0.2    0.0    0.2    1.1    0.0    0.9   30868.0   68742.0   160786.0   5.83   34233.0   18826.0
+34X           no                   NaN   NaN       NaN    NaN    NaN    8.0    1.4    1.8    4.9    NaN    4932.0    7026.0    28379.0    NaN    4419.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.3   -0.3    1.2    1.1    NaN    5251.0    6864.0    28626.0    NaN    4905.0       NaN
+35A           no                   NaN   NaN       NaN    NaN    NaN   16.5    1.1    2.0    4.7    NaN    1795.0    3025.0     3351.0    NaN    1730.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    4.4    0.6    2.2   -0.7    NaN    1709.0    3012.0     3384.0    NaN    1636.0       NaN
+35B           no                   NaN   NaN       NaN    NaN    NaN   15.7    0.1    0.2   15.9    NaN    2297.0    4083.0     7063.0    NaN    2280.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -3.1    0.7    0.5   -0.5    NaN    2251.0    3936.0     7219.0    NaN    2213.0       NaN
+35C           no                   NaN   NaN       NaN    NaN    NaN    6.9    1.4   -0.4    5.0    NaN    4928.0   10596.0    28348.0    NaN    5046.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.2    0.8    0.4    0.3    NaN    5123.0   10426.0    28460.0    NaN    5012.0       NaN
+35D           no                   NaN   NaN       NaN    NaN    NaN    NaN   -1.6    NaN   17.2    NaN       NaN    4110.0        NaN    NaN    5433.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN   -0.1    NaN    1.4    NaN       NaN    4022.0        NaN    NaN    5110.0       NaN
+35S           no               10163.0  1.56   14508.0    0.9   -0.2    9.6    0.4    0.0    9.4    1.0   19349.0   30222.0    55222.0   3.97   19359.0    5551.0
+              yes               9985.0  1.59   14345.0    0.6    0.0    1.1    0.5    0.6    0.8    1.7   19020.0   29800.0    55558.0   4.09   18686.0    5470.0
+36A           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.5    NaN   24.5    NaN       NaN    9047.0        NaN    NaN   13953.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.0    NaN   -3.3    NaN       NaN    8594.0        NaN    NaN   12822.0       NaN
+36B           no                   NaN   NaN       NaN    NaN    NaN    NaN    2.3    NaN   19.5    NaN       NaN   10472.0        NaN    NaN   23240.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.1    NaN   -2.6    NaN       NaN   10140.0        NaN    NaN   22330.0       NaN
+36C           no                   NaN   NaN       NaN    NaN    NaN    NaN    3.6    NaN    7.3    NaN       NaN    3726.0        NaN    NaN    4133.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    2.6    NaN    6.9    NaN       NaN    3707.0        NaN    NaN    4355.0       NaN
+36S           no               34273.0  1.75   50506.0    2.4   -0.9    9.7    0.8    0.0   11.7    1.2  111672.0  194792.0  1004523.0  14.37  111249.0  110013.0
+              yes              33104.0  1.76   50417.0    0.2   -0.1   -0.7    0.6    0.5   -1.8    1.0  114094.0  192686.0  1009858.0  14.44  109428.0  109165.0
+36Z           no                   NaN   NaN       NaN    NaN    NaN  -11.6    4.3    1.0    7.5    NaN    5238.0    8067.0    68308.0    NaN    4589.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -2.7    1.4    2.1   -1.1    NaN    6081.0    7966.0    68296.0    NaN    4671.0       NaN
+37S           no                3750.0  1.35    5604.0   -1.5   -0.6   -1.7   -0.9   -3.6    1.2   -0.1    7552.0   10807.0    12229.0   1.73    8004.0    1453.0
+              yes               3685.0  1.41    5695.0   -0.7    0.9   -0.4    0.2   -0.1   -0.2   -0.4    7656.0   10804.0    12668.0   1.87    7670.0    1424.0
+39S           no               15616.0  2.21   11312.0    0.4   -0.1    NaN    0.5    NaN    2.2    1.9       NaN   32529.0        NaN    NaN   14689.0    5601.0
+              yes              15517.0  2.15   11237.0   -0.1   -0.2    NaN    0.0    NaN    0.5    0.6       NaN   32246.0        NaN    NaN   14995.0    5492.0
+ANM           no                   NaN   NaN       NaN    NaN    NaN    2.9   -0.9    0.3    6.6    NaN   12973.0   21222.0    15385.0    NaN   12933.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.7    0.4    2.0    3.0    NaN   12861.0   21099.0    15474.0    NaN   12559.0       NaN
+BTP           no                   NaN   NaN       NaN    NaN    NaN   12.6   -0.3    0.0   12.0    NaN   35005.0   45390.0    39634.0    NaN   35015.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.8    0.3    0.3    0.6    NaN   33787.0   45074.0    40546.0    NaN   33680.0       NaN
+CDG           no                   NaN   NaN       NaN    NaN    NaN   15.4    1.2   -1.5   16.1    NaN   53408.0   47957.0    14192.0    NaN   53627.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -2.2    0.3   -0.3   -2.0    NaN   51372.0   46886.0    14521.0    NaN   51412.0       NaN
+CMS           no                   NaN   NaN       NaN    NaN    NaN    0.5   -0.1    0.2    1.6    NaN   74776.0  109744.0   129291.0    NaN   74484.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -0.3    0.4    1.0    0.3    NaN   71647.0  110067.0   128534.0    NaN   70407.0       NaN
+CNG           no                   NaN   NaN       NaN    NaN    NaN    NaN    0.0    NaN    1.8    NaN       NaN  231883.0        NaN    NaN  225496.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    NaN    0.4    NaN    0.2    NaN       NaN  232065.0        NaN    NaN  218069.0       NaN
+COG           no                   NaN   NaN       NaN    NaN    NaN    4.2    0.2   -1.5    4.3    NaN  278904.0  279840.0    14192.0    NaN  279123.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -0.3    0.4   -0.3   -0.2    NaN  269441.0  278951.0    14521.0    NaN  269481.0       NaN
+CRP           no                   NaN   NaN       NaN    NaN    NaN   10.3    2.9    3.0    9.0    NaN    3082.0    4609.0     1931.0    NaN    3025.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.5    0.8    3.0    0.2    NaN    2913.0    4427.0     1931.0    NaN    2856.0       NaN
+DAP           no                   NaN   NaN       NaN    NaN    NaN   -7.5   -0.9   -1.3    2.6    NaN    5025.0   15319.0    78091.0    NaN    6079.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    5.9   -0.5   -0.1   -0.7    NaN    6093.0   15328.0    79878.0    NaN    6202.0       NaN
+DEF           no                   NaN   NaN       NaN    NaN    NaN    4.3    0.7    0.0    8.1    NaN   19176.0   28628.0   226469.0    NaN   19203.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -1.5    0.0    0.8    0.5    NaN   21549.0   28545.0   229453.0    NaN   19698.0       NaN
+DXD           no                   NaN   NaN       NaN    NaN    NaN    5.1    0.6    0.2    6.4    NaN  315324.0  576353.0  1330768.0    NaN  318156.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.0    0.6    0.6   -0.3    NaN  313219.0  573170.0  1333520.0    NaN  310628.0       NaN
+DXT           no                   NaN   NaN       NaN    NaN    NaN    2.7    0.4    0.3    4.0    NaN  225888.0  416803.0   598703.0    NaN  229281.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.2    0.5    0.9    0.5    NaN  224364.0  415652.0   599744.0    NaN  224161.0       NaN
+ITI           no                   NaN   NaN       NaN    NaN    NaN    3.3    0.6    0.5    6.1    NaN   29262.0   56051.0   159127.0    NaN   28446.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.1    0.1    1.0    0.2    NaN   30447.0   55344.0   160174.0    NaN   28803.0       NaN
+MDM           no              170475.0  1.80  233702.0    0.6    0.1    4.9    0.5    0.1    6.4    0.9  337560.0  611595.0  1603226.0   6.75  340530.0  207418.0
+              yes             169034.0  1.82  232978.0    0.1    0.6   -0.1    0.5    0.6   -0.3    0.8  338458.0  608338.0  1609602.0   6.87  333589.0  206326.0
+MNM           no              162166.0  1.09  133129.0    0.6    0.7    1.9    0.5    NaN    1.9   -0.2  334967.0  365233.0        NaN    NaN  334967.0   69938.0
+              yes             161012.0  1.12  133012.0    0.0    0.9    0.3    0.5    NaN    0.3    1.1  325033.0  364044.0        NaN    NaN  325033.0   70020.0
+MTM           no              332641.0  1.45  366831.0    0.6    0.3    3.4    0.5    0.1    4.1    0.7  672527.0  976828.0  1603226.0   6.75  675497.0  277356.0
+              yes             330046.0  1.48  365990.0    0.1    0.7    0.1    0.5    0.6    0.0    0.9  663491.0  972382.0  1609602.0   6.87  658622.0  276346.0
+MTU           no                   NaN   NaN       NaN    NaN    NaN    3.2    0.5    NaN    5.3    NaN  239749.0  493062.0        NaN    NaN  237646.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.1    0.6    NaN   -0.2    NaN  244329.0  490638.0        NaN    NaN  234407.0       NaN
+MVP           no                   NaN   NaN       NaN    NaN    NaN   16.4    0.4    0.0   16.1    NaN   76331.0   68635.0    39634.0    NaN   76341.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -0.6    0.4    0.3   -0.7    NaN   73294.0   67515.0    40546.0    NaN   73187.0       NaN
+MXD           no                   NaN   NaN       NaN    NaN    NaN    3.5    0.5    0.2    4.1    NaN  650291.0  941586.0  1330768.0    NaN  653123.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.1    0.5    0.6    0.0    NaN  638252.0  937214.0  1333520.0    NaN  635661.0       NaN
+MXT           no                   NaN   NaN       NaN    NaN    NaN    2.2    0.4    0.3    2.8    NaN  560855.0  782036.0   598703.0    NaN  564248.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.3    0.5    0.9    0.4    NaN  549397.0  779696.0   599744.0    NaN  549194.0       NaN
+NAP           no                   NaN   NaN       NaN    NaN    NaN  -10.2    1.5    0.1    1.0    NaN   16061.0   87303.0   721223.0    NaN   15455.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN   -4.3    1.1    0.4   -8.6    NaN   18825.0   86527.0   722022.0    NaN   16267.0       NaN
+NDE           no                   NaN   NaN       NaN    NaN    NaN    1.8    1.2    0.2    3.0    NaN   95816.0  257691.0   954893.0    NaN   94228.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.2    0.8    0.5   -1.3    NaN  100530.0  255659.0   956768.0    NaN   95499.0       NaN
+NXA           no                   NaN   NaN       NaN    NaN    NaN    3.4    0.8    0.4    3.6    NaN   85360.0  189693.0   315668.0    NaN   84238.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    1.6    0.5    0.9    0.5    NaN   87640.0  188670.0   316906.0    NaN   84960.0       NaN
+ODG           no                   NaN   NaN       NaN    NaN    NaN    0.7    0.1   -3.4    1.2    NaN   52753.0   82469.0    13485.0    NaN   53224.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.2    0.0   -0.2    0.2    NaN   51406.0   82313.0    13924.0    NaN   51439.0       NaN
+TCG           no                   NaN   NaN       NaN    NaN    NaN    2.2    1.1    0.1    3.8    NaN  114992.0  286319.0  1181362.0    NaN  113431.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    0.7    0.7    0.6   -1.0    NaN  122079.0  284204.0  1186221.0    NaN  115197.0       NaN
+TGP           no                   NaN   NaN       NaN    NaN    NaN    6.2    0.9    0.4    5.4    NaN    5719.0   14730.0    39879.0    NaN    5557.0       NaN
+              yes                  NaN   NaN       NaN    NaN    NaN    3.5    2.4    0.4    2.7    NaN    5709.0   14654.0    39879.0    NaN    5547.0       NaN

@@ -1,0 +1,7 @@
+holdout_months,mape_seasonal_naive,mape_holt_winters,model_beats_baseline,category_code,industry,series
+12,0.9884731868534042,1.0131876649683622,False,11S,Food products (total),shipments_nsa
+12,4.709263246910877,6.835480648713544,False,11A,"Grain and oilseed milling, breakfast cereal",shipments_nsa
+12,3.6176593984996916,4.078224902295354,False,11B,Dairy products,shipments_nsa
+12,0.9665727200596266,0.7784557662638456,True,11C,"Meat, poultry and seafood processing",shipments_nsa
+12,2.0137906604682523,1.5741714635489394,True,12A,Beverage manufacturing,shipments_nsa
+12,3.3507116350314163,1.2496101832024706,True,12S,Beverage and tobacco products (total),shipments_nsa

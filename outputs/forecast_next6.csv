@@ -1,0 +1,37 @@
+month,category_code,industry,forecast_shipments_nsa,model_beats_baseline
+2026-09-01,11S,Food products (total),92494.02198974283,False
+2026-10-01,11S,Food products (total),94275.5001066143,False
+2026-11-01,11S,Food products (total),92521.49166100158,False
+2026-12-01,11S,Food products (total),90610.42103135587,False
+2027-01-01,11S,Food products (total),88949.44921502518,False
+2027-02-01,11S,Food products (total),89287.78512362303,False
+2026-09-01,11A,"Grain and oilseed milling, breakfast cereal",10585.609648261654,False
+2026-10-01,11A,"Grain and oilseed milling, breakfast cereal",11104.031276054027,False
+2026-11-01,11A,"Grain and oilseed milling, breakfast cereal",10818.58243037823,False
+2026-12-01,11A,"Grain and oilseed milling, breakfast cereal",10655.26689773007,False
+2027-01-01,11A,"Grain and oilseed milling, breakfast cereal",10638.529178824925,False
+2027-02-01,11A,"Grain and oilseed milling, breakfast cereal",10481.305630599118,False
+2026-09-01,11B,Dairy products,12852.21469743773,False
+2026-10-01,11B,Dairy products,13232.231461336836,False
+2026-11-01,11B,Dairy products,13153.28299703074,False
+2026-12-01,11B,Dairy products,13003.020316614893,False
+2027-01-01,11B,Dairy products,12781.214922013925,False
+2027-02-01,11B,Dairy products,12325.931008570169,False
+2026-09-01,11C,"Meat, poultry and seafood processing",26393.849161706865,True
+2026-10-01,11C,"Meat, poultry and seafood processing",26593.12305185474,True
+2026-11-01,11C,"Meat, poultry and seafood processing",26277.002305244354,True
+2026-12-01,11C,"Meat, poultry and seafood processing",25482.92779121416,True
+2027-01-01,11C,"Meat, poultry and seafood processing",24906.304817186145,True
+2027-02-01,11C,"Meat, poultry and seafood processing",25405.73884295133,True
+2026-09-01,12A,Beverage manufacturing,12581.09254553622,True
+2026-10-01,12A,Beverage manufacturing,12617.353619797803,True
+2026-11-01,12A,Beverage manufacturing,12079.893018738838,True
+2026-12-01,12A,Beverage manufacturing,12193.082536335862,True
+2027-01-01,12A,Beverage manufacturing,11592.234058211261,True
+2027-02-01,12A,Beverage manufacturing,11494.138195399777,True
+2026-09-01,12S,Beverage and tobacco products (total),18942.32894371008,True
+2026-10-01,12S,Beverage and tobacco products (total),18588.629013014077,True
+2026-11-01,12S,Beverage and tobacco products (total),18148.80211535221,True
+2026-12-01,12S,Beverage and tobacco products (total),18199.995393299254,True
+2027-01-01,12S,Beverage and tobacco products (total),17288.587321196817,True
+2027-02-01,12S,Beverage and tobacco products (total),17302.095215438298,True

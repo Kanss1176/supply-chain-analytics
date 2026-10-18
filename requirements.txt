@@ -1,0 +1,6 @@
+pandas
+duckdb
+statsmodels
+requests
+pytest
+openpyxl
