@@ -59,6 +59,3 @@ Limits:
 - Food and beverage have no orders data, so there are no backlog or order-to-ship measures.
 - Shipments are in current dollars, so price changes move them.
 - The forecast does not beat a simple "same month last year" baseline for the food total, grain and cereal, or dairy. It is shown for transparency, not as a reliable prediction.
-![Dashboard overview](docs/Dashboards/dashboard_overview.png)
-
-![Exceptions page](docs/Dashboards/dashboard_exceptions.png)
