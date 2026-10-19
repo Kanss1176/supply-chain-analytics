@@ -23,7 +23,7 @@ Analytics modules built on **real public data**. Nothing here is invented or sim
 | DuckDB load, exceptions, episodes (`build_monitor.py`) | Done |
 | Excel workbook and Power BI dashboard | Done (`outputs/monitor.xlsx`, `docs/Dashboards/food_beverage_monitor.pbix`) |
 | Status one-pager | Done (`docs/weekly_status.md`) |
-| Process map and risks log | Next |
+| Process map and risks log | Done (`docs/process_map.md`, `docs/risks_log.md`) |
 
 ### Run
 
