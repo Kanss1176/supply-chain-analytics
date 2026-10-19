@@ -1,4 +1,17 @@
 # supply-chain-analytics
+## What this shows
+
+Built as a working example of the reporting, process and risk work in a transformation analyst role. Everything runs on real US Census data.
+
+| Skill | Where to see it |
+|-------|-----------------|
+| Reporting and dashboards | Power BI report with an overview page and a flagged-episodes page (`docs/Dashboards/`) |
+| KPI tracking | Months of supply and shipments growth, defined in `docs/kpi_definitions.md` |
+| Data-driven insights | Exception and episode detection against a trailing 36-month normal range |
+| Executive-ready updates | One-page weekly status in `docs/weekly_status.md` |
+| Workflow mapping and pain points | Weekly process map with failure points in `docs/process_map.md` |
+| Operational risk escalation | Risks log with ratings, owners and escalation steps in `docs/risks_log.md` |
+| Honest reporting of limits | Forecast does not beat a simple baseline, and the README says so |
 
 Analytics modules built on **real public data**. Nothing here is invented or simulated.
 
