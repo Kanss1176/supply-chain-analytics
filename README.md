@@ -43,11 +43,11 @@ The Power BI report `food_beverage_monitor.pbix` reads `outputs/monitor.xlsx`.
 
 **Page 1: Overview.** Months of supply by month and industry, with an industry slicer and two cards for the latest month (August 2026).
 
-![Dashboard overview](docs/dashboard_overview.png)
+![Dashboard overview](docs/Dashboards/dashboard_overview.png)
 
 **Page 2: Flagged episodes.** Months when months of supply or shipments growth moved outside the trailing 36-month normal range, newest first.
 
-![Flagged episodes](docs/dashboard_exceptions.png)
+![Flagged episodes](docs/Dashboards/dashboard_exceptions.png)
 
 How to read it:
 - Months of supply is inventory divided by shipments. The food total stays below one month, so a small move looks large on the chart because the vertical axis is narrow.
